@@ -1,0 +1,37 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/kurtlogan/Documents/github/kurtlogan/aoc/target/scala-2.12/aoc_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	aoc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kurtlogan/Documents/github/kurtlogan/aoc/target/scala-2.12/classes/aoc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	aoc/implicits$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kurtlogan/Documents/github/kurtlogan/aoc/target/scala-2.12/classes/aoc/implicits$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	aoc/day2/PasswordParser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kurtlogan/Documents/github/kurtlogan/aoc/target/scala-2.12/classes/aoc/day2/PasswordParser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	aoc/day2/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kurtlogan/Documents/github/kurtlogan/aoc/target/scala-2.12/classes/aoc/day2/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	aoc/day2/Main$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kurtlogan/Documents/github/kurtlogan/aoc/target/scala-2.12/classes/aoc/day2/Main$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	aoc/day2/Password$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kurtlogan/Documents/github/kurtlogan/aoc/target/scala-2.12/classes/aoc/day2/Password$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	aoc/implicits.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kurtlogan/Documents/github/kurtlogan/aoc/target/scala-2.12/classes/aoc/implicits.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	aoc/day2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kurtlogan/Documents/github/kurtlogan/aoc/target/scala-2.12/classes/aoc/day2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	aoc/FileUtils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kurtlogan/Documents/github/kurtlogan/aoc/target/scala-2.12/classes/aoc/FileUtils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	aoc/day2/Password.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kurtlogan/Documents/github/kurtlogan/aoc/target/scala-2.12/classes/aoc/day2/Password.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	aoc/day2/Main$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kurtlogan/Documents/github/kurtlogan/aoc/target/scala-2.12/classes/aoc/day2/Main$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	aoc/implicits$BooleanOp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kurtlogan/Documents/github/kurtlogan/aoc/target/scala-2.12/classes/aoc/implicits$BooleanOp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	aoc/day2/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kurtlogan/Documents/github/kurtlogan/aoc/target/scala-2.12/classes/aoc/day2/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	aoc/FileUtils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kurtlogan/Documents/github/kurtlogan/aoc/target/scala-2.12/classes/aoc/FileUtils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	aoc/implicits$BooleanOp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kurtlogan/Documents/github/kurtlogan/aoc/target/scala-2.12/classes/aoc/implicits$BooleanOp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	day2input.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kurtlogan/Documents/github/kurtlogan/aoc/target/scala-2.12/classes/day2input.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	aoc/day2/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/kurtlogan/Documents/github/kurtlogan/aoc/target/scala-2.12/classes/aoc/day2/Main$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

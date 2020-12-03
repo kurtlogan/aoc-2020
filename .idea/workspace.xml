@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed2fcc7b-2411-4515-b186-8a76a13a7a6a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1l7VXrDb7T2c22JOGLFLgBMJZlK" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="aoc" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="root [file:/home/kurtlogan/Documents/github/kurtlogan/aoc/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="aoc-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="1421287051" />
+        <entry key="$PROJECT_DIR$/project/Dependencies.scala" value="3187829316" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2678115315" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../coursera/cats" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../MarktplaatsShowAndTell/techtest" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ctm" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../drivebuy/backend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../epigenes/test-s3" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../epigenes/tests3" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/activity-logger" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/add-taxes-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/add-taxes-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/alert-config-builder" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/amls-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/apprenticeship-levy" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/attorney" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/auth" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/auth-client" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/awrs-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/bank-account-reputation" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/benefits" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/benefits-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/binding-tariff-trader-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/business-tax-account" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/business-tax-account-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/c2ni-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/cds-file-upload" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/cds-file-upload-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/cds-file-upload-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/cds-file-upload-performance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/charities-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/citizen-details" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/cocar-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/cocar-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/customs-api-hods-stubs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/customs-declarations" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/customs-declarations-information" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/customs-declarations-stub" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/customs-declare-exports-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/customs-declare-imports" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/customs-declare-imports-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/customs-file-upload" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/delegation" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/dfs-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/ei-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/enrolment-management-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/enrolment-store-proxy" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/enrolment-store-stub" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/ers-checking-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/ers-returns-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/fandf" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/fandf-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/fandf-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/fandf-service-catalogue" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/fandf-stubs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/feedback-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/feedback-survey-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/frontend-template-provider" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/gmp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/gmp-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/gmp-bulk" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/gmp-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/gmp-stubs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/govuk-template" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/grafana-dashboards" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/hmrc-frontend-scaffold.g8" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/identity-verification-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/intellectual-property-admin-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/kibana-dashboards" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/local-template-renderer" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/ma-api-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/marriage-allowance" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/marriage-allowance-des-stub" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/nisp-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/nisp-stub" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/ntc" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/p800-payments" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/pay-as-you-earn-stub" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/paye" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/paye-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/paye-stubs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/payments-stubs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/pbik" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/pbik-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/pbik-stub" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/pdf-generator-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/pension-administrator-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/pertax-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/pertax-dependencies" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/pertax-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/ras-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/request-corporation-tax-number" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/state-pension" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/tai" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/tai-acceptance-test-suite" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/tai-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/tai-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/tai-stubs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/tamc" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/tamc-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/tamc-stub" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/tax-summaries" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/tax-summaries-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/tax-summaries-agent" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/tax-summaries-stubs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/taxcalc" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/taxcalc-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/taxcalc-stubs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/vat-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/wco-dec" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../http4s/http4s" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../advent-of-code" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akka-stream" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../bamil" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../bank-kata" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../bank-ocr" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../bst" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../business-tax-account" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../cats-io" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../code-challenge-kurtlogan" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../data-structures" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../finally-tagless" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../fp-max" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../fps" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../functional-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../gen-lenses" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../genocle" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../hangman" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../helicoptor" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../http4s" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../icfp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../json-parser" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../learn-akka" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../liveservice-workshop" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../monocle" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../navigator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../ninety-nine-problems" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../pi-zio" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../play-todo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../ray-tracer" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../red-book" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../regepgentest" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../rob-norris-sockets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-seed.g8" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-with-cats" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scalacheck-gen-regexp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scalaz" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scraper" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../server-client/server" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../space-invaders" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../streamz" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../string-literal-types-2.13" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../sudokusolver" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../t" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../talks/typeclasses/examples" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../tap" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../tcpz" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../test-proj" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../testing-test" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../tictactoe" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../tsuro" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../typeclass-today" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../typeclassexamples" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../typesafeexamples" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../word-chains" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../zacman" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../zio" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../zio-chat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../zio-env" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../zio-workshop" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../mossprescott/invertible-syntax" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../paidy/interview/forex-mtl" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../scalaz/scalaz" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../scalaz/scalaz-nio" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../scalaz/scalaz-zio" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../sirthias/parboiled2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../softwaremill/akka-vs-scalaz" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../wolfendale/scalacheck-gen-regexp" value="PREVIEW" />
+        <entry key="$USER_HOME$/api" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed2fcc7b-2411-4515-b186-8a76a13a7a6a" name="Default Changelist" comment="" />
+      <created>1606948158094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606948158094</updated>
+      <workItem from="1606948165057" duration="8046000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
