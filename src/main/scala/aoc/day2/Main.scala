@@ -26,11 +26,10 @@ object Main extends App {
 
   val invalidPasswords =
     fileSource("day2input.txt")
-      .via(Framing.delimiter(ByteString("\n"), 256).map(_.utf8String))
       .map(parser.run)
       .collect { case Some(p) => p }
       .filter(_.isValid)
-      .map{a => println(a) ; 1}
+      .map(_ => 1)
       .reduce((l, r) => l + r)
       .runForeach(println)
       .andThen { case _ => system.terminate() }
